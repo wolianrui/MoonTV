@@ -87,11 +87,11 @@
     },
     "ffzyapi": {
       "api": "http://cj.ffzyapi.com/api.php/provide/vod",
-      "name": "量子资源"
+      "name": "量子资源1"
     },
     "wolongzyw": {
       "api": "https://collect.wolongzyw.com/api.php/provide/vod",
-      "name": "卧龙资源"
+      "name": "卧龙资源1"
     }
   }
 }
